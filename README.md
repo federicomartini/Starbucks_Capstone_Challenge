@@ -59,7 +59,7 @@ Below is the schema and explanation of each variable in the files:
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@martini.f/starbucks-capstone-challange-977811f882).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
